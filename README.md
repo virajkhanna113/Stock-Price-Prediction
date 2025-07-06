@@ -6,4 +6,4 @@ The data contains records about the stock price of Tata Global Beverages Limited
 pandas, numpy, matplotlib, scikit-learn, keras
 
 # Model used
-LSTM
+Sequential (LSTM)
